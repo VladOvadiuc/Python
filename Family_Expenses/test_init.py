@@ -1,0 +1,13 @@
+def testInit(expenseList):
+    expenseList.append((1,20,'food'))
+    expenseList.append((1,230,'transport'))
+    expenseList.append((1,90,'food'))
+    expenseList.append((1,5,'others'))
+    expenseList.append((2,450,'rent'))
+    expenseList.append((10,20,'transport'))
+    expenseList.append((11,60,'gas'))
+    expenseList.append((6,120,'others'))
+    expenseList.append((5,250,'others'))
+    expenseList.append((28,15,'food'))
+    expenseList.append((30,30,'gas'))
+    expenseList.append((6,300,'rent'))
